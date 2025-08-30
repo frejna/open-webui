@@ -183,4 +183,3 @@ ENV WEBUI_BUILD_VERSION=${BUILD_HASH}
 ENV DOCKER=true
 
 CMD [ "bash", "start.sh"]
-
